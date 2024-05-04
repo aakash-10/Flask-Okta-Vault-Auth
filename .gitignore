@@ -1,0 +1,8 @@
+.env
+*.secret
+/env
+*.pyc
+__pycache__/
+instance/
+.webassets-cache
+.vscode/settings.json
